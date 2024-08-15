@@ -4,6 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openjdk:21-oraclelinux8
-wuliangxue/git:0.1-alpine
-dony435/pnpm:20-alpine
+apache/skywalking-oap-server:10.0.1-java21
