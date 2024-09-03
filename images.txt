@@ -8,4 +8,5 @@
 #apache/skywalking-java-agent:9.3.0-java21
 #apache/skywalking-ui:10.0.1-java21
 #maven:3.6.2-jdk-8
-openjdk:8u322-jdk-oraclelinux8
+#openjdk:8u322-jdk-oraclelinux8
+onlyoffice/documentserver:8.1
